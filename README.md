@@ -21,7 +21,7 @@ Este é um aplicativo simples em Java que permite criptografar e descriptografar
 2. Em seguida, será solicitado se você deseja descriptografar a mensagem. Digite 'S' para sim ou 'N' para não.
 3. Se você optar por descriptografar a mensagem, digite a mensagem criptografada e o aplicativo exibirá a mensagem descriptografada.
 4. Após cada iteração, você será questionado se deseja criptografar outra mensagem. Digite 'S' para sim ou 'N' para não.
-5. O programa será encerrado ao escolher 'N' na última pergunta.
+5. O programa será encerrado ao escolher 'N' em alguma pergunta.
 
 ## Aplicativo em funcionamento
 ![image](https://github.com/belizario87/app-criptografia-java/assets/43473532/323328ad-b1b6-4070-b326-f5c2e30958f4)
