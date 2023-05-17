@@ -5,7 +5,7 @@ public class Descriptografar {
 
         for (int i = 0; i < mensagemCriptografada.length(); i++) {
             char caractereCriptografado = mensagemCriptografada.charAt(i);
-            char caractere = (char) (caractereCriptografado - 1); // Exemplo de algoritmo de substituição inverso
+            char caractere = (char) (caractereCriptografado - 1); 
             mensagemDescriptografada.append(caractere);
         }
 
